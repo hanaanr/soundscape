@@ -1,5 +1,5 @@
 ## Soundscape: Kerala, India
-This is a basic website I created to showcase a soundscape I created, imitiating the sounds of my hometown in Kerala, India. The soundscape was created using Audacity, compiling different sound clips from free sound archives on the internet. This was my first exercise using Audacity. 
 
+In my first experiment with soundscapes, audio files and Audacity, I attempted to imitate the sounds of a rainy day in my hometown in India using a variety of sound clips from free sound archives on the internet. 
 
 https://hanaanr.github.io/soundscape/
